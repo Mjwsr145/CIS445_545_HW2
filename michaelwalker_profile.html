@@ -2,6 +2,13 @@
 <html>
   <head>
     <title>Michael Walker Sr</title>
+	<script type="text/javascript">
+		function myDate(){
+			var today = new Date();
+			var myDate = today.getFullYear()+'-'+(today.getMonth()+1)+'-'+today.getDate();
+			document.getElementById('formDate').innerHTML="<b>Today is<b><br>" + "<b>" + myDate + "<b>";
+		}	
+	</script>
 	<style>
 		body {
 		  display: flex;
@@ -73,9 +80,10 @@
 	</style>
   </head>
   
-  <body>
+  <body onload="myDate()">
    <div class="wrapper">
 		<div class="left">
+		<p id="formDate" style="color:black; "></p>
 		<p>Husband</p>
 		<p>Father</p>
 		<p>Programmer</p>
