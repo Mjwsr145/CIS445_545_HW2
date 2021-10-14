@@ -12,7 +12,7 @@ I first opened github and created my repository: Mjwsr145/CIS445_545_HW2. I then
 
 Once inside the local folder I created the html file: michalewalker_profile.html and this README.md file
 
-Once I had the html file created I used some of the information from project #1 to create the content for my profile page. In project #1 I used speparate files for my css and javescript so with this homework I decided to use these tools within the main html document.
+Once I had the html file created I used some of the information from project #1 to create the content for my profile page. In project #1 I used separate files for my css and javescript so with this homework I decided to use these tools within the main html document.
 
 I started with the main content and the css style of the page.
 
