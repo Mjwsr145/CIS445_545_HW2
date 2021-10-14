@@ -21,3 +21,6 @@ Once I had that how I wanted I created the link to my image for the page.
 Next step was to do something with the left side of the page. I added the email me link and some header information about me. Nothing fancy but wanted to add some content for that left area of the page.
 
 The final step was to add some javascript. This was somewhat of a challenge to make it work as I wanted. I tried a few things but settled on putting the date at the top of the left part of the page. Creating an onload event in the body tag was the best way I could come up with to make this happen. 
+
+## Final Thoughts
+I attacked this homework assignment to create everything on one html page. Including the CSS and JavaScript within the head tag of the page and using skills we have worked on to create this one profile page. The project #1 was a more robust type of assignment so I tried to incorporate all the skills just on a single page. 
